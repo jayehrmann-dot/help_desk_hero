@@ -5,6 +5,10 @@ Monitors blue-screen, printers jam, and somebody has forgotten their password
 again. Run between the desks and clear tickets before the frustration meter
 fills. Atari 2600 looks, single-screen action, running inside your terminal.
 
+<p align="center">
+<img width="593" height="475" alt="help_desk_hero" src="https://github.com/user-attachments/assets/2e6458f2-f754-4a38-be0a-a1d70a9ae618" />
+</p>
+
 ```bash
 ./play.sh
 ```
